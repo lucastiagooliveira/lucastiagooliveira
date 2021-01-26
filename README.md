@@ -1,7 +1,7 @@
-### Oi e bem vindo ao meu perfil! 👋
+### Oi e Bem Vindo ao meu perfil! 
 
 
-Meu nome é Lucas Tiago e sou um Cientista de Dados que estou atualmente vivendo em Uberlândia, Minas Gerais. Eu tenho estudado ciência de dados a aproximadamente um ano e tenho aproveitado bastante esse périodo. Eu sou naturalmente um pessoa engajada em aprender o novo e apaixonado por resolver problemas (especialmente aqueles que não parecem ter solução), sendo que estou sempre buscando novas tecnologias para aumentar essa qualidade. Meu foco é sempre resolver problemas de negócios utilizando machine learning (aprendizado de máquina) e modelagem estatística, tudo isso alinhado com as novas tecnologias de big data. Tenho utilzado as seguintes ferramentas para isso:
+Meu nome é **Lucas Tiago** e sou um Cientista de Dados que estou atualmente vivendo em Uberlândia, Minas Gerais. Eu tenho estudado ciência de dados a aproximadamente um ano e tenho aproveitado bastante esse périodo. Eu sou naturalmente um pessoa engajada em aprender o novo e apaixonado por resolver problemas (especialmente aqueles que não parecem ter solução), sendo que estou sempre buscando novas tecnologias para aumentar essa qualidade. Meu foco é sempre resolver problemas de negócios utilizando machine learning (aprendizado de máquina) e modelagem estatística, tudo isso alinhado com as novas tecnologias de big data. Tenho utilizado as seguintes ferramentas para isso:
 
 - Python :snake:;
 - Limpeza :mag_right: e visualização de dados :chart_with_upwards_trend:;
@@ -12,8 +12,7 @@ Eu tenho graduação em engenharia elétrica e mestrado em qualidade da energia 
 
 I have good communication skills in English :us:. While I am not working on any projects or studying, I spend time with my family :family:, playing guitar or bass guitar :guitar:, working out :muscle:, or watching documentaries :movie_camera:.
 
-
-
+Obrigado por visitar meu perfil! :octocat:
 
 <!--
 **lucastiagooliveira/lucastiagooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
