@@ -14,6 +14,6 @@ I have good communication skills in English :us:. While I am not working on any 
 
 Obrigado por visitar meu perfil! :octocat:
 
-![Custom badge](https://img.shields.io/endpoint?color=blue&label=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucas-tiago-7a4a1362%2F)
+![Custom badge](https://img.shields.io/endpoint?color=blue&label=LinkedIn&style=social&url=e.g.%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucas-tiago-7a4a1362%2F)
 <!--
 **lucastiagooliveira/lucastiagooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
