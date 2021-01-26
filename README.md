@@ -14,5 +14,6 @@ I have good communication skills in English :us:. While I am not working on any 
 
 Obrigado por visitar meu perfil! :octocat:
 
+![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=https%3A%2F%2Fsimpleicons.org%2Ficons%2Flinkedin.svg&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucas-tiago-7a4a1362%2F)
 <!--
 **lucastiagooliveira/lucastiagooliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
