@@ -10,7 +10,7 @@ Meu nome é **Lucas Tiago** e sou um Cientista de Dados que estou atualmente viv
 
 Eu tenho graduação em engenharia elétrica e mestrado em qualidade da energia elétrica, ambos pela Universidade Federal de Uberlândia (UFU). Onde eu sempre estive muito envolvido com tecnologia e programação, que sempre foram meus pontos fortes durante toda a minha carreira profissional. Além disso tenho experiência como engenheiro de manutenção hospitalar em um grande hospital em São Paulo. Mas como resultado disso tudo resolvi mudar de carreira. Eu atualmente estou cursando Pós-graduação em Analytics e Inteligência artificial pela FIA (Fundação Instituto de Administração).
 
-I have good communication skills in English :gb:. While I am not working on any projects or studying, I spend time with my family :family:, playing guitar or bass guitar :guitar:, working out :muscle:, or watching documentaries :movie_camera:.
+I have good communication skills in English :gb: . While I am not working on any projects or studying, I spend time with my family :family:, playing guitar or bass guitar :guitar:, working out :muscle:, or watching documentaries :movie_camera:.
 
 Obrigado por visitar meu perfil! :octocat:
 
